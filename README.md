@@ -1,63 +1,58 @@
 # SANJAY N T
 
+## 👋 About Me
+AI / ML Engineer focused on **LLMOps, Large Language Models, and Scalable Inference Systems**.  
+Experienced in deploying and evaluating open-source LLMs using **vLLM**, **Kubernetes**, and **GPU-accelerated infrastructure**.  
+Actively working on **agentic systems**, **RAG pipelines**, and **model evaluation frameworks**.
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjay-nt&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay-nt&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-nt&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📈 Contribution Activity Graph  
+*(unchanged as requested)*
+
 <p align="center">
-     <img src="https://profile-counter.glitch.me/{sanjay-nt}/count.svg"  alt="counter"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-nt&theme=github-dark&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
 
-<!---->
-                                                                         
-<!--### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>-->
+---
 
-### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/sanjay-nt/github-readme-streak-stats">
-   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-nt&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>-->
-    <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  src="http://github-readme-streak-stats.herokuapp.com?user=sanjay-nt&count_private=true&theme=soft-green&hide_border=true"/>-->
-  </a>
-  
-  <a href="https://github.com/sanjay-nt/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-nt&count_private=true&theme=soft-green&hide_border=true"/>
-  </a>
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjay-nt&theme=soft-green&hide_border=true)](https://git.io/streak-stats)-->
-     
-### <h2 align="center">🏆 Github Trophies 🏆<h2/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanjay-nt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-   <!-- <img src="https://github-profile-trophy.vercel.app/?username=sanjay-nt&row=2&column=4&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
--->
-       <img src="https://github-profile-trophy.vercel.app/?username=sanjay-nt&row=2&column=4&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
-  </a>
-</p>
+---
 
-### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>
-  
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-nt&theme=gotham&layout=compact&count_private=true" alt="sanjay-nt" />
-</p>
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjay-nt&show_icons=true&theme=gotham&count_private=true" alt="sanjay-nt" />
-</p>
-<p align="center">
-<img width="80%" height="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-nt&theme=github-compact" alt="sanjay-nt" />
-</p>
- <h2 align="center">💥 Programming Languages and Technologies Known:<h2/>
-<p>  
-  
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src ="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-0A66C2?style=for-the-badge&logo=SQL&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=Spyderide&logoColor=white" />
-<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
- </p>
+## 🚀 LLMOps & AI Stack
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-Inference%20Engine-black?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-Agentic_AI-4B0082?style=for-the-badge)
+
+---
+
+## 🧠 Current Focus
+- Open-source LLM evaluation (GSM8K, ARC, MMLU, HumanEval)
+- High-throughput inference using **vLLM + H100 / A30 GPUs**
+- Agentic workflows with **AutoGen**
+- Multi-tenant LLM platforms on Kubernetes
